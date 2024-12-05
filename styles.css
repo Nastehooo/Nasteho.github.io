@@ -66,17 +66,6 @@ body {
         width: 48%;  /* Adjust the icon size for mobile */
     }
 
-    .main-content {
-        padding: 10px;
-    }
-
-    .main-content h1 {
-        font-size: 20px;  /* Adjust font size for mobile */
-    }
-
-    .main-content p {
-        font-size: 14px;  /* Adjust font size for mobile */
-    }
 }
 
 /* Desktop View */
@@ -87,17 +76,5 @@ body {
 
     .sidebar {
         width: 25%;
-    }
-
-    .main-content {
-        padding: 20px;
-    }
-
-    .main-content h1 {
-        font-size: 24px;
-    }
-
-    .main-content p {
-        font-size: 16px;
     }
 }
